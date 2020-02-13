@@ -1,0 +1,11 @@
+C:\Users\wande\dev\PM\PM.Infra\bin\Debug\netcoreapp3.0\PM.Infra.deps.json
+C:\Users\wande\dev\PM\PM.Infra\bin\Debug\netcoreapp3.0\PM.Infra.dll
+C:\Users\wande\dev\PM\PM.Infra\bin\Debug\netcoreapp3.0\PM.Infra.pdb
+C:\Users\wande\dev\PM\PM.Infra\bin\Debug\netcoreapp3.0\PM.Business.dll
+C:\Users\wande\dev\PM\PM.Infra\bin\Debug\netcoreapp3.0\PM.Business.pdb
+C:\Users\wande\dev\PM\PM.Infra\obj\Debug\netcoreapp3.0\PM.Infra.csprojAssemblyReference.cache
+C:\Users\wande\dev\PM\PM.Infra\obj\Debug\netcoreapp3.0\PM.Infra.AssemblyInfoInputs.cache
+C:\Users\wande\dev\PM\PM.Infra\obj\Debug\netcoreapp3.0\PM.Infra.AssemblyInfo.cs
+C:\Users\wande\dev\PM\PM.Infra\obj\Debug\netcoreapp3.0\PM.Infra.csproj.CopyComplete
+C:\Users\wande\dev\PM\PM.Infra\obj\Debug\netcoreapp3.0\PM.Infra.dll
+C:\Users\wande\dev\PM\PM.Infra\obj\Debug\netcoreapp3.0\PM.Infra.pdb

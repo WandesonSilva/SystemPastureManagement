@@ -1,0 +1,8 @@
+C:\Users\wande\dev\PM\PM.Business\bin\Debug\netcoreapp3.0\PM.Business.deps.json
+C:\Users\wande\dev\PM\PM.Business\bin\Debug\netcoreapp3.0\PM.Business.dll
+C:\Users\wande\dev\PM\PM.Business\bin\Debug\netcoreapp3.0\PM.Business.pdb
+C:\Users\wande\dev\PM\PM.Business\obj\Debug\netcoreapp3.0\PM.Business.AssemblyInfoInputs.cache
+C:\Users\wande\dev\PM\PM.Business\obj\Debug\netcoreapp3.0\PM.Business.AssemblyInfo.cs
+C:\Users\wande\dev\PM\PM.Business\obj\Debug\netcoreapp3.0\PM.Business.dll
+C:\Users\wande\dev\PM\PM.Business\obj\Debug\netcoreapp3.0\PM.Business.pdb
+C:\Users\wande\dev\PM\PM.Business\obj\Debug\netcoreapp3.0\PM.Business.csprojAssemblyReference.cache
